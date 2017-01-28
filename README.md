@@ -1,0 +1,2 @@
+# mathelogical
+Math based blog
